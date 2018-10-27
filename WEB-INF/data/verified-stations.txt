@@ -1,0 +1,11 @@
+# BBC National Radio
+BBC Radio 1 | http://bbc.co.uk/radio/listen/live/r1.asx
+BBC Radio 1xtra | http://bbc.co.uk/radio/listen/live/r1x.asx
+BBC Radio 2 | http://bbc.co.uk/radio/listen/live/r2.asx
+BBC Radio 3 | http://bbc.co.uk/radio/listen/live/r3.asx
+BBC Radio 4 | http://bbc.co.uk/radio/listen/live/r4.asx
+BBC Radio 5 Live | http://bbc.co.uk/radio/listen/live/r5l.asx
+BBC Radio 6 | http://bbc.co.uk/radio/listen/live/r6.asx
+
+Talk Sport | http://radio.talksport.com/stream?awparams=platform:ts-web&amsparams=playerid:ts-web
+Classic FM  (London, MP3, 128 Kbps) | http://media-ice.musicradio.com/ClassicFMMP3.m3u

@@ -1,0 +1,10 @@
+Errors in status should be displayed.  DONE
+Implement playlists
+Implement scheduler
+Replace text with icons on buttons.
+Sort delete button blanking on queue
+Fix vertical scrolling issue on radio panel (table viewport doesn't expand/contract)
+Do something creative with ASX content.
+Reconnect if connection fails.
+Update progress scroller and make live to seek.  Should track width.
+Settings Dialog

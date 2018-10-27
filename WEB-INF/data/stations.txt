@@ -1,0 +1,689 @@
+# BBC see http://bbcstreams.com/
+# BBC International
+BBC Radio World Service | http://www.bbc.co.uk/worldservice/meta/tx/nb/live_infent_au_nb.asx
+BBC Radio World ServiceEnglish (UK Schedule) | http://www.bbc.co.uk/worldservice/meta/tx/nb/live/eneuk.asx
+BBC Radio World Service(Alternative Stream) | http://www.radiofeeds.co.uk/ws.asx
+BBC World Service 24 Hour News Channel | http://www.bbc.co.uk/worldservice/meta/tx/nb/live_ennws_au_nb.asx
+BBC Radio Arabic | http://www.bbc.co.uk/arabic/meta/tx/nb/arabic_live_au_nb.asx
+BBC Radio Russia | http://www.bbc.co.uk/russian/meta/tx/nb/russian_live_au_nb.asx
+
+# BBC National
+BBC Radio 1 | http://bbc.co.uk/radio/listen/live/r1.asx
+BBC Radio 1xtra | http://bbc.co.uk/radio/listen/live/r1x.asx
+BBC Radio 2 | http://bbc.co.uk/radio/listen/live/r2.asx
+BBC Radio 3 | http://bbc.co.uk/radio/listen/live/r3.asx
+BBC Radio 4 | http://bbc.co.uk/radio/listen/live/r4.asx
+BBC Radio 4Long Wave LW | http://bbc.co.uk/radio/listen/live/r4lw.asx
+BBC Radio 5 Live | http://bbc.co.uk/radio/listen/live/r5l.asx
+BBC Radio 5 Live Sports Extra | http://bbc.co.uk/radio/listen/live/r5lsp.asx
+BBC Radio 6 | http://bbc.co.uk/radio/listen/live/r6.asx
+BBC Radio 4 Extra | http://www.bbc.co.uk/radio/listen/live/r4x.asx
+BBC Asian Network | http://bbc.co.uk/radio/listen/live/ran.asx
+
+# BBC Regional
+BBC Radio Cymru | http://bbc.co.uk/radio/listen/live/rc.asx
+BBC Radio Foyle | http://bbc.co.uk/radio/listen/live/rf.asx
+BBC Radio nan Gaidheal | http://bbc.co.uk/radio/listen/live/rng.asx
+BBC Radio Scotland | http://bbc.co.uk/radio/listen/live/rs.asx
+BBC Radio Ulster | http://bbc.co.uk/radio/listen/live/ru.asx
+BBC Radio Wales | http://bbc.co.uk/radio/listen/live/rw.asx
+BBC Radio Berkshire | http://bbc.co.uk/radio/listen/live/bbcberkshire.asx
+BBC Radio Bristol | http://bbc.co.uk/radio/listen/live/bbcbristol.asx
+BBC Radio Cambridgeshire | http://bbc.co.uk/radio/listen/live/bbccambridgeshire.asx
+BBC Radio Cornwall | http://bbc.co.uk/radio/listen/live/bbccornwall.asx
+BBC Radio Coventry & Warwickshire | http://bbc.co.uk/radio/listen/live/bbccoventryandwarwickshire.asx
+BBC Radio Cumbria | http://bbc.co.uk/radio/listen/live/bbccumbria.asx
+BBC Radio Derby | http://bbc.co.uk/radio/listen/live/bbcderby.asx
+BBC Radio Devon | http://bbc.co.uk/radio/listen/live/bbcdevon.asx
+BBC Radio Essex | http://bbc.co.uk/radio/listen/live/bbcessex.asx
+BBC Radio Gloucestershire | http://bbc.co.uk/radio/listen/live/bbcgloucestershire.asx
+BBC Radio Guernsey | http://bbc.co.uk/radio/listen/live/bbcguernsey.asx
+BBC Radio Hereford & Worcester | http://bbc.co.uk/radio/listen/live/bbcherefordandworcester.asx
+BBC Radio Humberside | http://bbc.co.uk/radio/listen/live/bbchumberside.asx
+BBC Radio Jersey | http://bbc.co.uk/radio/listen/live/bbcjersey.asx
+BBC Radio Kent|http://bbc.co.uk/radio/listen/live/bbckent.asx
+BBC Radio Lancashire | http://bbc.co.uk/radio/listen/live/bbclancashire.asx
+BBC Radio Leeds | http://bbc.co.uk/radio/listen/live/bbcleeds.asx
+BBC Radio Leicester | http://bbc.co.uk/radio/listen/live/bbcleicester.asx
+BBC Radio Lincolnshire | http://bbc.co.uk/radio/listen/live/bbclincolnshire.asx
+BBC Radio London | http://bbc.co.uk/radio/listen/live/bbclondon.asx
+BBC Radio Manchester | http://bbc.co.uk/radio/listen/live/bbcmanchester.asx
+BBC Radio Merseyside | http://bbc.co.uk/radio/listen/live/bbcmerseyside.asx
+BBC Radio Newcastle | http://bbc.co.uk/radio/listen/live/bbcnewcastle.asx
+BBC Radio Norfolk | http://bbc.co.uk/radio/listen/live/bbcnorfolk.asx
+BBC Radio Northampton | http://bbc.co.uk/radio/listen/live/bbcnorthampton.asx
+BBC Radio Nottingham | http://bbc.co.uk/radio/listen/live/bbcnottingham.asx
+BBC Radio Oxford | http://bbc.co.uk/radio/listen/live/bbcoxford.asx
+BBC Radio Sheffield | http://bbc.co.uk/radio/listen/live/bbcsheffield.asx
+BBC Radio Shropshire | http://bbc.co.uk/radio/listen/live/bbcshropshire.asx
+BBC Radio Solent | http://bbc.co.uk/radio/listen/live/bbcsolent.asx
+BBC Radio Somerset | http://bbc.co.uk/radio/listen/live/bbcsomerset.asx
+BBC Radio Stoke | http://bbc.co.uk/radio/listen/live/bbcstoke.asx
+BBC Radio Suffolk | http://bbc.co.uk/radio/listen/live/bbcsuffolk.asx
+BBC Radio Surrey | http://bbc.co.uk/radio/listen/live/bbcsurrey.asx
+BBC Radio Tees | http://bbc.co.uk/radio/listen/live/bbctees.asx
+BBC Radio Three Counties | http://bbc.co.uk/radio/listen/live/bbcthreecounties.asx
+BBC Radio Wiltshire | http://bbc.co.uk/radio/listen/live/bbcwiltshire.asx
+BBC Radio West Midlands | http://bbc.co.uk/radio/listen/live/bbcwm.asx
+BBC Radio York | http://bbc.co.uk/radio/listen/live/bbcyork.asx
+
+# Commercial
+# See http://www.listenlive.eu/uk.html
+BBC Radio 1  (National, Windows Media, 128 Kbps) | http://bbc.co.uk/radio/listen/live/r1.asx
+BBC Radio 1  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r1_aaclca.pls
+BBC Radio 2  (National, Windows Media, 128 Kbps) | http://bbc.co.uk/radio/listen/live/r2.asx
+BBC Radio 2  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r2_aaclca.pls
+BBC Radio 3  (National, Windows Media, 320 Kbps) | http://www.bbc.co.uk/radio/listen/live/r3.asx
+BBC Radio 3  (National, aacplus, 320 Kbps) | http://www.bbc.co.uk/radio/listen/live/r3_aaclca.pls
+BBC Radio 4  (National, Windows Media, 128 Kbps) | http://bbc.co.uk/radio/listen/live/r4.asx
+BBC Radio 4  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r4_aaclca.pls
+BBC Radio 4 LW  (National, Windows Media, 128 Kbps) | http://www.bbc.co.uk/radio4/wm_asx/aod/radio4_lw.asx
+BBC Radio 4 LW  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r4lw_aaclca.pls
+BBC Radio 4 Extra  (National, Windows Media, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r4x.asx
+BBC Radio 4 Extra  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r4x_aaclca.pls
+BBC 5 Live  (National, Windows Media, 48 Kbps) | http://bbc.co.uk/radio/listen/live/r5l.asx
+BBC 5 Live  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r5l_aaclca.pls
+BBC 5 Live Sports Extra  (National, Windows Media, 48 Kbps) | http://bbc.co.uk/radio/listen/live/r5lsp.asx
+BBC 5 Live Sports Extra  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r5lsp_aaclca.pls
+BBC 6 Music  (National, Windows Media, 96 Kbps) | http://bbc.co.uk/radio/listen/live/r6.asx
+BBC 6 Music  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r6_aaclca.pls
+BBC 1Xtra  (National, Windows Media, 128 Kbps) | http://www.bbc.co.uk/1xtra/realmedia/1xtra.asx
+BBC 1Xtra  (National, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/r1x_aaclca.pls
+BBC Asian Network  (Birmingham, Windows Media, 128 Kbps) | http://bbc.co.uk/radio/listen/live/ran.asx
+BBC Asian Network  (Birmingham, aacplus, 128 Kbps) | http://www.bbc.co.uk/radio/listen/live/ran_aaclca.pls
+BBC World Service  (London, Windows Media, 32 Kbps) | mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43021
+BBC World Service  (London, MP3, 32 Kbps) | http://www.bbc.co.uk/worldservice/meta/tx/nb/live/eneuk.pls
+BBC World Service News  (London, Windows Media, 32 Kbps) | http://www.bbc.co.uk/worldservice/meta/tx/nb/live/ennws.asx
+BBC World Service News  (London, MP3, 32 Kbps) | http://www.bbc.co.uk/worldservice/meta/tx/nb/live/ennws.pls
+BBC Coventry and Warwickshire  (Coventry, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrcoventryandwarwickshire
+BBC London  (London, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrlondon
+BBC Radio Berkshire  (Reading, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrberkshire
+BBC Radio Bristol  (Bristol, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrbristol
+BBC Radio Cambridgeshire  (Cambridge, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrcambridgeshire
+BBC Radio Cornwall  (Truro, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrcornwall
+BBC Radio Cumbria  (Carlisle, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrcumbria
+BBC Radio Derby  (Derby, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrderby
+BBC Radio Devon  (Plymouth, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrdevon
+BBC Essex   (Chelmsford, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lressex
+BBC Radio Gloucestershire  (Gloucester, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrgloucestershire
+BBC Radio Guernsey  (St Sampson's, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrguernsey
+BBC Hereford/Worcester  (Worcester, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrherefordandworcester
+BBC Radio Humberside  (Hull, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrhumberside
+BBC Radio Jersey  (St.Helier, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrjersey
+BBC Radio Kent  (Maidstone, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrkent
+BBC Radio Lancashire  (Blackburn, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrlancashire
+BBC Radio Leeds  (Leeds, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrleeds
+BBC Radio Leicester  (Leicester, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrleicester
+BBC Radio Lincolnshire  (Lincoln, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrlincolnshire
+BBC Radio Manchester  (Manchester, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrmanchester
+BBC Radio Merseyside  (Liverpool, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrmerseyside
+BBC Radio Newcastle  (Newcastle, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrnewcastle
+BBC Radio Norfolk  (Norwich, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrnorfolk
+BBC Radio Northampton  (Northampton, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrnorthampton
+BBC Radio Nottingham  (Nottingham, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrnottingham
+BBC Radio Oxford  (Oxford, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lroxford
+BBC Radio Sheffield  (Sheffield, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrsheffield
+BBC Radio Shropshire   (Shrewsbury, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrshropshire
+BBC Radio Solent  (Southampton, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrsolent
+BBC Somerset Sound  (Taunton, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrsomerset
+BBC Radio Stoke  (Stoke, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrstoke
+BBC Radio Suffolk   (Ipswich, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrsuffolk
+BBC Surrey  (Guildford, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrsurrey
+BBC Sussex  (Brighton, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrsussex
+BBC Radio Wiltshire  (Swindon, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrwiltshire
+BBC Radio York   (York, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lryork
+BBC Tees  (Middlesbrough, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrtees
+BBC Three Counties Radio  (Luton, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrthreecounties
+BBC WM  (Birmingham, Windows Media, 48 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/england/lrwm
+BBC Radio Cymru  (Cardiff, Windows Media, 80 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/nations/cymru
+BBC Radio Scotland  (Glasgow, Windows Media, 80 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/nations/scotland
+BBC Radio nan Gaidheal  (Stornoway, Windows Media, 80 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/nations/nangaidheal
+BBC Radio Ulster  (Belfast, Windows Media, 80 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/nations/ulster
+BBC Radio Foyle  (Londonderry, Windows Media, 80 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/nations/foyle
+BBC Radio Wales  (Cardiff, Windows Media, 80 Kbps) | http://wmlive-lracl.bbc.co.uk/wms/nations/wales
+2BR  (Burnley, MP3, 128 Kbps) | http://str1.sad.ukrd.com/2br.m3u
+3FM  (Douglas, MP3, 96 Kbps) | http://stream.three.fm:8000/live.m3u
+3TFM   (Saltcoats, MP3, 128 Kbps) | http://shoutcast.zfast.co.uk:2199/tunein/tfm0.pls
+7 Waves Community Radio   (Wirral, MP3, 128 Kbps) | http://www.fairmedia.co.uk:9210/listen.pls
+10Radio   (Wiveliscombe, MP3, 48 Kbps) | http://live.canstream.co.uk:8000/10radio.mp3.m3u
+Abbey104  (Sherborne, MP3, 320 Kbps) | http://simplexstream.com/tunein.php/radioshe/playlist.pls
+Absolute Radio  (London, MP3, 32 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=ar
+Absolute Radio  (London, aacplus, 128 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=arbb
+Absolute Radio  (London, ogg Vorbis, 24 Kbps) | http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=ar
+Absolute Radio Classic Rock  (London, MP3, 32 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=ac
+Absolute Radio Classic Rock  (London, aacplus, 128 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=acbb
+Absolute Radio Classic Rock  (London, ogg Vorbis, 24 Kbps) | http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=ac
+Absolute Radio 60s  (London, MP3, 32 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a6
+Absolute Radio 60s  (London, aacplus, 128 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a6bb
+Absolute Radio 60s  (London, ogg Vorbis, 24 Kbps) | http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=a6
+Absolute Radio 70s  (London, MP3, 32 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a7
+Absolute Radio 70s  (London, aacplus, 128 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a7bb
+Absolute Radio 70s  (London, ogg Vorbis, 24 Kbps) | http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=a7
+Absolute Radio 80s  (London, MP3, 32 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a8
+Absolute Radio 80s  (London, aacplus, 128 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a8bb
+Absolute Radio 80s  (London, ogg Vorbis, 24 Kbps) | http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=a8
+Absolute Radio 90s  (London, MP3, 32 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a9
+Absolute Radio 90s  (London, aacplus, 128 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a9bb
+Absolute Radio 90s  (London, ogg Vorbis, 24 Kbps) | http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=a9
+Absolute Radio 00s  (London, MP3, 32 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a0
+Absolute Radio 00s  (London, aacplus, 128 Kbps) | http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a0bb
+Absolute Radio 00s  (London, ogg Vorbis, 24 Kbps) | http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=a0
+107.8 Academy FM   (Ramsgate, aacplus, 64 Kbps) | http://s3.xrad.io:8082/listen.pls
+105.9 Academy FM   (Folkestone, aacplus, 48 Kbps) | http://s3.xrad.io:8080/listen.pls
+Access FM  (Bridgwater, MP3, 64 Kbps) | http://s3.xrad.io:8040/listen.pls
+AIR 107.2  (Weymouth, MP3, 192 Kbps) | http://stream.aironair.co.uk:8000/listen.pls
+Alive Radio   (Dumfries, MP3, 128 Kbps) | http://217.28.20.20:8013/listen.pls
+ALL FM   (Longsight, MP3, 96 Kbps) | http://icecast.commedia.org.uk:8000/allfm.mp3.m3u
+Amazing Radio  (Digital Network, MP3, 128 Kbps) | http://stream.amazingradio.co.uk:8000/listen.pls
+Amber Sound  (Ripley, aacplus, 96 Kbps) | http://67.213.213.120:9002/live.m3u
+Angel Radio  (Havant, MP3, 96 Kbps) | http://s6.viastreaming.net:7030/listen.pls
+Angel Radio  (Newport (IOW), MP3, 64 Kbps) | http://s3.viastreaming.net:7150/listen.pls
+97.3 Apple FM  (Taunton, MP3, 128 Kbps) | http://radio.canstream.co.uk:8031/live.mp3.m3u
+Arrow FM  (Hastings, aacplus, 32 Kbps) | http://s3.xrad.io:8092/listen.pls
+The Arrow  (Digital Network, MP3, 128 Kbps) | http://media-ice.musicradio.com/ArrowMP3.m3u
+Asda FM Live  (Leeds, Windows Media, 48 Kbps) | http://audio.asdafm.com/ASDAFMLive
+96.7 Ashbourne Radio  (Ashbourne, MP3, 96 Kbps) | http://listen2.onmyradio.net:8024/listen.pls
+Asian Star 101.6 FM   (Slough, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/asianstar.mp3.m3u
+Awaaz Radio  (High Wycombe, MP3, 64 Kbps) | http://shoutcast.zfast.co.uk:2199/tunein/blattime.pls
+Awaz FM   (Glasgow, MP3, 32 Kbps) | http://icecast.commedia.org.uk:8000/awaz.mp3.m3u
+Banbury Sound  (Banbury, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/banburysound.mp3.m3u
+BANG Radio   (Harlesden, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/bangradio.mp3.m3u
+The Bay  (Lancaster, MP3, 64 Kbps) | http://shoutcast2.tidyhosts.com:9006/listen.pls
+Bay FM  (Exmouth, MP3, 64 Kbps) | http://mirror.viewcam.co.uk/listen.pls
+BCfm  (Bristol, MP3, 96 Kbps) | http://icecast.commedia.org.uk:8000/commbrist.mp3.m3u
+BCB 106.6FM  (Bradford, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/bcb.mp3.m3u
+The Beach  (Great Yarmouth, aacPlus, 48 Kbps) | http://webradio.radiomonitor.com/m3u/Beach.m3u
+107 The Bee  (Blackburn, MP3, 128 Kbps) | http://str1.sad.ukrd.com/thebee.m3u
+The Bee  (Preston, MP3, 128 Kbps) | http://str1.sad.ukrd.com/thebee-pr.m3u
+BFBS 1  (London, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/ssvcbfbs1.mp3.m3u
+Big City Radio   (Aston, MP3, 128 Kbps) | http://icecast.easystream.co.uk:8000/bigcityradio.m3u
+Big L 1395  (Digital Network, MP3, 128 Kbps) | http://eastlondonradio.com:8100/biglh.mp3.m3u
+Biggles FM  (Biggleswade, MP3, 64 Kbps) | http://212.74.123.36:8000/bigglesfm.mp3.m3u
+105.9 Bishop FM  (Bishop Auckland, MP3, 128 Kbps) | http://uk2-pn.webcast-server.net:8434/listen.pls
+Black Diamond FM   (Mid Lothian, MP3, 96 Kbps) | http://icecast.easystream.co.uk:8000/blackdiamondfm.m3u
+Bob fm  (Hertford, MP3, 96 Kbps) | http://ic01.mediaondemand.net/106JackFM.m3u
+Bolton FM  (Bolton, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/boltonfm.mp3.m3u
+Branch FM  (Dewsbury, MP3, 128 Kbps) | http://usa2-vn.mixstream.net/listen/8890.pls
+The Breeze  (Andover, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Andover-128.m3u
+The Breeze  (Basingstoke, MP3, 128 Kbps) | http://stream1.radiomonitor.com/KestrelFM-North-128.m3u
+The Breeze  (Bath, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Bath-128.m3u
+The Breeze  (Bridgewater, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Somerset-128.m3u
+The Breeze  (Bristol, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Bristol-128.m3u
+The Breeze  (Haslemere, MP3, 128 Kbps) | http://stream1.radiomonitor.com/KestrelFM-South-128.m3u
+The Breeze  (Warminster, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Warminster-128.m3u
+The Breeze  (Newbury, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Newbury-128.m3u
+The Breeze   (Shaftesbury, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Midwest-Shaftesbury-128.m3u
+The Breeze  (Southampton, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Southampton-128.m3u
+The Breeze  (Portsmouth, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Portsmouth-128.m3u
+The Breeze   (Yeovil, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Midwest-Yeovil-128.m3u
+The Breeze  (Cheltenham, MP3, 128 Kbps) | http://stream1.radiomonitor.com/Breeze-Cheltenham-128.m3u
+Bridge FM  (Bridgend, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/tcbridge.mp3.m3u
+102.5 The 'Bridge  (Stourbridge, MP3, 96 Kbps) | http://shoutcast2.tidyhosts.com:9004/listen.pls
+Bright FM  (Burgess Hill, aacplus, 48 Kbps) | http://s3.xrad.io:8094/listen.pls
+BRfm  (Brynmawr, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/brfm.mp3.m3u
+BRFM  (Isle of Sheppey, MP3, 128 Kbps) | http://live.brfm.net:8000/BrfmMP3.m3u
+Bro Radio  (Barry, MP3, 96 Kbps) | http://csmedia.serverroom.us:8720/listen.pls
+Bute FM   (Rothesay, MP3, 64 Kbps) | http://live.canstream.co.uk:8000/bute.mp3.m3u
+Calon FM  (Wrexham, MP3, 256 Kbps) | http://83.170.109.107:8034/listen.pls
+Cambridge 105  (Cambridge, MP3, 128 kbps) | http://stream.cambridge105.fm/105-128s-mp3.pls
+Cambridge 105  (Cambridge, aacplus, 192 Kbps) | http://stream.cambridge105.fm/105-192s-mp3.m3u
+Canalside Community Radio  (Bollington, MP3, 128 Kbps) | http://195.10.228.6:8035/canal.mp3.m3u
+Capital FM  (London, MP3, 128 Kbps) | http://media-ice.musicradio.com/CapitalMP3.m3u
+Capital FM  (London, aacplus, 48 Kbps) | http://media-ice.musicradio.com/Capital.m3u
+Capital FM Birmingham  (Birmingham, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalBirminghamMP3Low.m3u
+Capital FM Birmingham  (Birmingham, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalBirminghamMP3.m3u
+Capital FM Edinburgh  (Edinburgh, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalEdinburghMP3Low.m3u
+Capital FM Edinburgh  (Edinburgh, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalEdinburghMP3.m3u
+Capital FM Glasgow  (Glasgow, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalGlasgowMP3Low.m3u
+Capital FM Glasgow  (Glasgow, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalGlasgowMP3.m3u
+Capital FM Derbyshire  (Derby, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalDerbyshireMP3Low.m3u
+Capital FM Derbyshire  (Derby, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalDerbyshireMP3.m3u
+Capital FM Leicestershire  (Leicester, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalLeicestershireMP3Low.m3u
+Capital FM Leicestershire  (Leicester, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalLeicestershireMP3.m3u
+Capital FM Nottinghamshire  (Nottingham, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalNottinghamshireMP3Low.m3u
+Capital FM Nottinghamshire  (Nottingham, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalNottinghamshireMP3.m3u
+Capital FM Manchester  (Manchester, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalManchesterMP3Low.m3u
+Capital FM Manchester  (Manchester, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalManchesterMP3.m3u
+Capital FM South Coast  (Southampton, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalSouthCoastMP3Low.m3u
+Capital FM South Coast  (Southampton, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalSouthCoastMP3.m3u
+Capital FM South Wales  (Cardiff, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalSouthWalesMP3Low.m3u
+Capital FM South Wales  (Cardiff, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalSouthWalesMP3.m3u
+Capital FM Teesside  (Middlesbrough, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalTeessideMP3Low.m3u
+Capital FM Teesside  (Middlesbrough, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalTeessideMP3.m3u
+Capital FM Tyne and Wear  (Newcastle, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalTyneWearMP3Low.m3u
+Capital FM Tyne and Wear  (Newcastle, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalTyneWearMP3.m3u
+Capital FM Yorkshire East  (Hull, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalYorkshireEastMP3Low.m3u
+Capital FM Yorkshire East  (Hull, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalYorkshireEastMP3.m3u
+Capital FM Yorkshire South and West  (Leeds, MP3, 48 Kbps) | http://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3Low.m3u
+Capital FM Yorkshire South and West  (Leeds, aacplus, 128 Kbps) | http://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3.m3u
+98.8 Castle FM  (Edinburgh, MP3, 192 Kbps) | http://s7.myradiostream.com:10126/listen.pls
+Castledown Radio  (Tidworth, MP3, 128 Kbps) | http://live.canstream.co.uk:8000/castledown.mp3.m3u
+Celtic Music Radio  (Glasgow, MP3, 128 Kbps) | http://www.celticmusicradio.net/cmr/celtic_live.m3u
+Central FM   (Falkirk, aacplus, 64 Kbps) | http://s2.xrad.io:8008/listen.pls
+CFM  (Carlisle, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=cfm.mp3.m3u
+CFM  (Carlisle, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=cfm.aac.m3u
+Channel 103FM  (Jersey, MP3, 56 Kbps) | http://sharpflow.sharp-stream.com:8000/tindlechannel103.mp3.m3u
+Chelmsford Radio  (Chelmsford, MP3, 128 Kbps) | http://ar.canstream.co.uk:8002/live.mp3.m3u
+Chelmsford Radio  (Chelmsford, aacPlus, 48 Kbps) | http://ar.canstream.co.uk:8002/live.aac.m3u
+Chill  (Digital Network, MP3, 128 Kbps) | http://media-ice.musicradio.com/ChillMP3.m3u
+Chill  (Digital Network, aacPlus, 48 Kbps) | http://media-ice.musicradio.com/Chill.m3u
+Chorley FM  (Chorley, MP3, 128 Kbps) | http://193.104.168.3:8080/listen.pls
+City Beat 96.7  (Belfast, MP3, 96 Kbps) | http://zebra631.server4you.net:9018/listen.pls
+City Talk 105.9   (Liverpool, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=citytalk.mp3.m3u
+City Talk 105.9   (Liverpool, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=citytalk.aac.m3u
+Classic FM  (London, MP3, 128 Kbps) | http://media-ice.musicradio.com/ClassicFMMP3.m3u
+Classic FM  (London, aacplus, 48 Kbps) | http://media-ice.musicradio.com/ClassicFM.m3u
+Clyde 1  (Glasgow, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=clyde1.mp3.m3u
+Clyde 1  (Glasgow, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=clyde1.aac.m3u
+Clyde 2  (Glasgow, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=clyde2.mp3.m3u
+Clyde 2  (Glasgow, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=clyde2.aac.m3u
+Colourful Radio  (Digital network, aacPlus, 128 Kbps) | http://streaming.colourfulradio.com:8080/listen.pls
+Compass FM  (Grimsby, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmcompass.aac.m3u
+Connect FM  (Kettering, MP3, 128 Kbps) | http://ar.canstream.co.uk:8004/live.mp3.m3u
+Connect FM  (Kettering, aacPlus, 48 Kbps) | http://ar.canstream.co.uk:8004/live.aac.m3u
+106.8 Connect FM  (Peterborough, MP3, 128 Kbps) | http://ar.canstream.co.uk:8005/live.mp3.m3u
+106.8 Connect FM  (Peterborough, aacPlus, 48 Kbps) | http://ar.canstream.co.uk:8005/live.aac.m3u
+Cool FM  (Belfast, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=coolfm.mp3.m3u
+Cool FM  (Belfast, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=coolfm.aac.m3u
+Corby Radio  (Corby, MP3, 128 Kbps) | http://mp3.corbyradio.com:8080/listen.pls
+Crescent Radio  (Rochdale, MP3, 40 Kbps) | http://icecast.commedia.org.uk:8000/crescent.mp3.m3u
+Cross Rhythms City Radio  (Stoke-on-Trent, Windows Media, 128 Kbps) | http://www.crossrhythms.co.uk/radio/radiobb.asx
+CSR  (Canterbury, MP3, 192 Kbps) | http://listen.csrfm.com/stream.m3u
+Cuillin FM  (Isle of Skye, MP3, 64 Kbps) | http://radio.canstream.co.uk:8023/live.mp3.m3u
+CAM FM  (Cambridge, MP3, 128 Kbps) | http://www.listenlive.eu/camfm.m3u
+Dawn FM  (Nottingham, MP3, 32 Kbps) | http://icecast.commedia.org.uk:8000/radiodawn.mp3.m3u
+Dearne FM  (Barnsley, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmdearne.aac.m3u
+Dee 106.3  (Chester, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/tcdee.mp3.m3u
+Demon FM  (Leicester, MP3, 320 Kbps) | http://live.demonfm.co.uk:8000/demon320.m3u
+Demon FM  (Leicester, aacplus, 48 Kbps) | http://live.demonfm.co.uk:8000/demon48.m3u
+Desi Radio  (Southall, aacPlus, 48 Kbps) | http://icy-e-04.sharp-stream.com/desiradio.aac.m3u
+Diverse FM  (Luton, MP3, 128 Kbps) | http://live.canstream.co.uk:8000/diversefm.mp3.m3u
+Downtown Radio  (Belfast, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=downtown.mp3.m3u
+Downtown Radio  (Belfast, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=downtown.aac.m3u
+Dream 100  (Colchester, aacPlus, 48 Kbps) | http://webradio.radiomonitor.com/m3u/Dream100.m3u
+Drive 105  (Londonderry, MP3, 128 Kbps) | http://icecast.easystream.co.uk:8000/drive105.m3u
+Drystone Radio  (South Craven, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/drystone.mp3.m3u
+Dune 107.9  (Southport, MP3, 64 Kbps) | http://46.32.226.251:8014/listen.pls
+96.4 Eagle Radio  (Guildford, MP3, 128 Kbps) | http://str1.sad.ukrd.com/eagle.m3u
+Eagle Extra  (Guildford, MP3, 128 Kbps) | http://str1.sad.ukrd.com/county.m3u
+Eagle 3  (Guildford, MP3, 128 Kbps) | http://str1.sad.ukrd.com/eaglethree.m3u
+Eklipse Sports Radio  (Glasgow, MP3, 96 Kbps) | http://radio.canstream.co.uk:8070/live.mp3.m3u
+Energy FM  (Douglas, MP3, 128 Kbps) | http://78.129.250.9:8048/listen.pls
+Erewash Sound  (Erewash, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/erewash.m3u
+Express FM  (Portsmouth, MP3, 112 Kbps) | http://stream.expressfm.com:80/expressfm.mp3.m3u
+103 The Eye  (Melton Mowbray, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/theeyefm.mp3.m3u
+Fantasy Radio  (Devizes, MP3, 128 Kbps) | http://server.fantasyradio.co.uk:8300/listen.pls
+Felixstowe Radio  (Felixstowe, MP3, 128 Kbps) | http://uk4-vn.mixstream.net:8032/listen.pls
+Fire 107.6  (Bournemouth, aacPlus, 28 Kbps) | http://s3.xrad.io:8024/listen.pls
+Forest FM  (Verwood, MP3, 128 Kbps) | http://195.10.228.4:8000/forestfm.mp3.m3u
+Forth One  (Edinburgh, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=forth1.mp3.m3u
+Forth One  (Edinburgh, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=forth1.aac.m3u
+Forth 2  (Edinburgh, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=forth2.mp3.m3u
+Forth 2  (Edinburgh, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=forth2.aac.m3u
+Free Radio Birmingham  (Birmingham, MP3, 128 Kbps) | http://stream3.radiomonitor.com/Free-Birmingham-128.m3u
+Free Radio Shropshire  (Shrewsbury, MP3, 128 Kbps) | http://stream3.radiomonitor.com/Free-Shropshire-128.m3u
+Free Radio Black Country  (Wolverhampton, MP3, 128 Kbps) | http://stream3.radiomonitor.com/Free-Wolverhampton-128.m3u
+Free Radio Coventry and Warwickshire  (Coventry, MP3, 128 Kbps) | http://stream3.radiomonitor.com/Free-Coventry-128.m3u
+Free Radio Herefordshire and Worcs  (Worcester, MP3, 128 Kbps) | http://stream3.radiomonitor.com/Free-Worcester-128.m3u
+Free Radio 80s  (Birmingham, MP3, 128 Kbps) | http://stream3.radiomonitor.com/Free-80s-128.m3u
+French Radio London   (London, MP3, 96 Kbps) | http://audio1.ipercast.net/frenchradiolondon.com/hi/mp3.m3u
+Fresh Air  (Edinburgh, MP3, 192 Kbps) | http://live.freshair.org.uk:3066/listen.pls
+Fun Kids  (Digital Network, MP3, 96 Kbps) | http://www.funkidslive.com/player/aggregator-96-mp3.m3u
+Future Radio  (Norwich, MP3, 64 Kbps) | http://www.futureradio.co.uk/Future.m3u
+Gateway 97.8   (Basildon, MP3, 128 Kbps) | http://gateway.primcast.com:8536/listen.pls
+Gaydio   (Manchester, MP3, 64 Kbps) | http://listen.gaydio.co.uk:8000/gaydio64.mp3.m3u
+Gaydio   (Manchester, aacplus, 160 Kbps) | http://listen.gaydio.co.uk:8000/gaydio.mp3.m3u
+Gem 106   (Nottingham, MP3, 128 Kbps) | http://stream2.radiomonitor.com/Gem-128.m3u
+GFM   (Glastonbury, MP3, 32 Kbps) | http://live.canstream.co.uk:8000/glastonburyfm.mp3.m3u
+GFM  (Gloucester, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/gloucesterfm.mp3.m3u
+Gold  (London, MP3, 48 Kbps) | http://media-ice.musicradio.com/GoldMP3Low.m3u
+Gold  (London, aacplus, 128 Kbps) | http://media-ice.musicradio.com/GoldMP3.m3u
+Gravity FM   (Grantham, MP3, 128 Kbps) | http://uk3-pn.mixstream.net:8130/listen.pls
+GTFM  (Pontypridd, MP3, 64 Kbps) | http://radio.canstream.co.uk:8012/live.mp3.m3u
+Hallam FM  (Sheffield, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=hallam.mp3.m3u
+Hallam FM  (Sheffield, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=hallam.aac.m3u
+Halton Community Radio  (Runcorn, MP3, 128 Kbps) | http://eclipse.galaxywebsolutions.com:7630/live.m3u
+Hayes FM  (Hayes, MP3, 64 Kbps) | http://live.canstream.co.uk:8000/hayes.mp3.m3u
+HCRfm  (Huntingdon, MP3, 128 Kbps) | http://stream.hcrfm.co.uk:8098/listen.pls
+Heart 106.2  (London, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartLondonMP3.m3u
+Heart FM 100.7  (Birmingham, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartWestMidsMP3.m3u
+Heart (Norwich)  (Norwich, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartNorfolkMP3.m3u
+Heart (Bedford)  (Bedford, MP3, 128 Kbps) | http://ice-the.musicradio.com/HeartBedfordshireMP3
+Heart (Dunstable)  (Dunstable, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartBedsBucksHertsMP3.m3u
+Heart (Peterborough)  (Peterborough, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartPeterboroughMP3.m3u
+Heart (Northampton)  (Northampton, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartNorthamptonshireMP3.m3u
+Heart (Cambridge)  (Cambridge, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartCambridgeMP3.m3u
+Heart (Colchester)  (Colchester, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartColchesterMP3.m3u
+Heart (Ipswich)  (Ipswich, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartSuffolkMP3.m3u
+Heart (Milton Keynes)  (Milton Keynes, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartMiltonKeynesMP3.m3u
+Heart (Oxfordshire)  (Oxford, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartOxfordshireMP3.m3u
+Heart (Bath)  (Bath, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartBathMP3.m3u
+Heart (Bristol)  (Bristol, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartBristolMP3.m3u
+Heart (Wiltshire)  (Swindon, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartWiltshireMP3.m3u
+Heart (Exeter)  (Exeter, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartEastDevonMP3.m3u
+Heart (Torbay)  (Torquay, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartTorbayMP3.m3u
+Heart (North Devon)  (Barnstaple, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartNorthDevonMP3.m3u
+Heart (Somerset)  (Taunton, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartSomersetMP3.m3u
+Heart (Plymouth)  (Plymouth, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartPlymouthMP3.m3u
+Heart (Gloucestershire)  (Gloucester, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartGloucestershireMP3.m3u
+Heart (South Devon)   (Kingsbridge, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartSouthHamsMP3.m3u
+Heart (Berkshire)  (Reading, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartBerkshireMP3.m3u
+Heart (Cheshire and North East Wales)  (Wrexham, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartWrexhamMP3.m3u
+Heart Cornwall  (Cornwall, MP3, 96 Kbps) | http://media-ice.musicradio.com/HeartCornwallMP3.m3u
+Heart (Anglesey & Gwynedd)  (Bangor, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartCymruMP3.m3u
+Heart (Dorset)  (Bournemouth, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartDorsetMP3.m3u
+Heart (Essex)  (Chelmsford, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartEssexMP3.m3u
+Heart (Hampshire)  (Fareham, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartHampshireMP3.m3u
+Heart (Kent)  (Maidstone, MP3, 128 kbps) | http://media-ice.musicradio.com/HeartKentMP3.m3u
+Heart (North Wales Coast)  (Bangor, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartWalesCoastMP3.m3u
+Heart (Sussex)  (Brighton, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartSussexMP3.m3u
+Heart (Wirral)  (Birkenhead, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartWirralMP3.m3u
+Heart (Hertfordshire)  (Watford, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartWatfordMP3.m3u
+Heart (Sussex & Surrey)  (Crawley, MP3, 128 Kbps) | http://media-ice.musicradio.com/HeartCrawleyMP3.m3u
+Heartland FM  (Pitlochry, MP3, 48 Kbps) | http://rs9.radiostreamer.com:8185/listen.pls
+Heat  (Digital Network, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=heat.mp3.m3u
+Heat  (Digital Network, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=heat.aac.m3u
+Hermitage FM  (Coalville, MP3, 64 Kbps) | http://live.canstream.co.uk:8000/hermitage.mp3.m3u
+102.3 HFM  (Market Harborough, Windows Media, 128 Kbps) | http://www.mybroadbandradio.com/asx/listen.asx?station=HFM
+High Peak Radio  (Buxton, aacPlus, 96 Kbps) | http://listen2.onmyradio.net:8016/listen.pls
+Hillz FM  (Coventry, MP3, 128 Kbps) | http://www.kphcomputers.com/thehillzradio.m3u
+The Hits  (Digital Network, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=hits.mp3.m3u
+The Hits  (Digital Network, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=hits.aac.m3u
+Hope FM   (Bournemouth, MP3, 80 Kbps) | http://icy-e-04.sharp-stream.com/hopefm.mp3.m3u
+Hot Radio  (Poole, MP3, 128 Kbps) | http://stream1.tune-in.co.uk:7002/listen.pls
+ICR  (Ipswich, MP3, 192 Kbps) | http://95.142.158.120/tunein.php/ipswichc/playlist.pls
+Imagine FM  (Stockport, MP3, 64 Kbps) | http://webradio.radiomonitor.com/stream/Imagine.m3u
+Indigo FM  (Kirkby Lonsdale, MP3, 128 Kbps) | http://83.170.104.91:30250/listen.pls
+Insanity Radio  (Egham, MP3, 192 Kbps) | http://listen.insanityradio.com:8000/live-192.mp3.m3u
+Insight Radio  (Glasgow, MP3, 128 Kbps) | http://185.14.85.162:8020/listen.pls
+Inspiration FM   (Northampton, MP3, 128 Kbps) | http://live.canstream.co.uk:8000/inspirationfm.mp3.m3u
+Island FM  (Guernsey, MP3, 56 Kbps) | http://sharpflow.sharp-stream.com:8000/tindleisland.mp3.m3u
+Isle of Wight Radio  (Newport, aacplus, 28 Kbps) | http://listen.onmyradio.net:8018/listen.pls
+Isles FM   (Stornoway, MP3, 128 Kbps) | http://hebrides.tv:8000/islesfm.m3u
+Jack fm  (Oxford, MP3, 48 Kbps) | http://playerservices.streamtheworld.com/pls/JACK_FM_LOW.pls
+Jack fm  (Oxford, aacplus, 128 Kbps) | http://playerservices.streamtheworld.com/pls/JACK_FM.pls
+Jack 2   (Oxford, MP3, 48 Kbps) | http://playerservices.streamtheworld.com/pls/JACK2_LOW.pls
+Jack 2   (Oxford, aacplus, 128 Kbps) | http://playerservices.streamtheworld.com/pls/JACK2.pls
+106 Jack fm  (Bristol, MP3, 128 Kbps) | http://stream3.radiomonitor.com/JackBristol-128.m3u
+106 JACK fm  (Southampton, MP3, 128 Kbps) | http://stream1.radiomonitor.com/JackSouthCoast-128.m3u
+107 JACK fm  (Swindon, MP3, 128 Kbps) | http://stream1.radiomonitor.com/JackSwindon-128.m3u
+Jazz FM  (London, MP3, 96 Kbps) | http://listen.onmyradio.net:8002/listen.pls
+Jazz FM  (London, aacplus, 64 Kbps) | http://listen.onmyradio.net:8000/listen.pls
+Juice 107.6  (Liverpool, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Juice-Liverpool.m3u
+Juice 107.2  (Brighton, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/juice1072.mp3.m3u
+Kane FM   (Guildford, MP3, 64 Kbps) | http://91.121.122.94:8081/listen.pls
+KCFM  (Hull, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmkc.aac.m3u
+KCC Live  (Knowsley, MP3, 192 Kbps) | http://195.194.74.201:8000/listen.pls
+Keith Community Radio  (Keith, MP3, 32 Kbps) | http://icecast.commedia.org.uk:8000/keithcommunityradio.mp3.m3u
+97.5 Kemet FM  (Nottingham, MP3, 96 Kbps) | http://kemetonlineradio.serverroom.us:7458/listen.pls
+Kerrang!  (Digital Network, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=kerrang.mp3.m3u
+Kerrang!  (Digital Network, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=kerrang.aac.m3u
+Key 103  (Manchester, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=key.mp3.m3u
+Key 103  (Manchester, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=key.aac.m3u
+Kingdom FM   (Fife, MP3, 64 Kbps) | http://stream8.considerit.co.uk/kingdomfm64.mp3.m3u
+Kinnaird Radio  (Fraserburgh, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/kinnaird.mp3.m3u
+Kiss 100  (London, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=kiss100.mp3.m3u
+Kiss 100  (London, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=kiss100.aac.m3u
+Kiss 105-108  (Bury St.Edmunds, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=kiss105.mp3.m3u
+Kiss 105-108  (Bury St.Edmunds, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=kiss105.aac.m3u
+Kiss 101  (Bristol, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=kiss101.mp3.m3u
+Kiss 101  (Bristol, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=kiss101.aac.m3u
+KL.FM 96.7  (Kings Lynn, MP3, 128 Kbps) | http://str1.sad.ukrd.com/klfm.m3u
+kmfm  (Kent, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/kmfmextra.mp3.m3u
+Lakeland Radio  (Kendal, MP3, 64 Kbps) | http://shoutcast2.tidyhosts.com:9012/listen.pls
+LBC 1152 AM  (London, MP3, 24 Kbps) | http://media-ice.musicradio.com/LBC1152MP3Low.m3u
+LBC 1152 AM  (London, aacplus, 48 Kbps) | http://media-ice.musicradio.com:80/LBC1152.m3u
+LBC 97.3 FM  (London, MP3, 48 Kbps) | http://media-ice.musicradio.com/LBC973MP3Low.m3u
+LBC 97.3 FM  (London, aacplus, 48 Kbps) | http://media-ice.musicradio.com/LBC973.m3u
+LCR  (Loughborough, MP3, 192 Kbps) | http://158.125.14.12:8080/lcrhigh.m3u
+Leisure FM   (Braintree, MP3, 160 Kbps) | http://lfmradio.countybroadband.net:8002/listen.pls
+Lincoln City Radio  (Lincoln, MP3, 64 Kbps) | http://uk4.listen2myradio.com:2199/tunein/yymhhdkj-stream.pls
+Lincs FM   (Lincoln, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmlincs.aac.m3u
+Lionheart Radio   (Alnwick, MP3, 32 Kbps) | http://www.lionheartradio.com/lionheart.m3u
+Lisburn's 98FM  (Lisburn, MP3, 64 Kbps) | http://radio.canstream.co.uk:8050/live.mp3.m3u
+London Greek Radio  (London, Windows Media, 96 Kbps) | mms://live.istoikona.com/lgr
+London Turkish Radio  (London, MP3, 128 Kbps) | http://bloom.wavestreamer.com:2171/listen.pls?sid=1
+LSRfm  (Leeds, MP3, 128 Kbps) | http://lush.wavestreamer.com:6648/listen.pls?sid=1X
+Magic 105.4  (London, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic1054.mp3.m3u
+Magic 105.4  (London, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic1054.aac.m3u
+Magic 1548  (Liverpool, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic1548.mp3.m3u
+Magic 1548  (Liverpool, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic1548.aac.m3u
+Magic 1170  (Middlesbrough, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic1170.mp3.m3u
+Magic 1170  (Middlesbrough, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic1170.aac.m3u
+Magic 1161  (Hull, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic1161.mp3.m3u
+Magic 1161  (Hull, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic1161.aac.m3u
+Magic 1152  (Newcastle, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic1152n.mp3.m3u
+Magic 1152  (Newcastle, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic1152n.aac.m3u
+Magic 1152  (Manchester, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic1152m.mp3.m3u
+Magic 1152  (Manchester, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic1152m.aac.m3u
+Magic 999  (Preston, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic999.mp3.m3u
+Magic 999  (Preston, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic999.aac.m3u
+Magic 828  (Leeds, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=magic828.mp3.m3u
+Magic 828  (Leeds, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=magic828.aac.m3u
+Mansfield 103.2  (Mansfield, MP3, 48 Kbps) | http://icy-e-01.sharp-stream.com/mansfield103.mp3.m3u
+Manx Radio FM  (Isle of Man, aacplus, 128 Kbps) | http://icy-e-04.sharp-stream.com/manxradiofm.aac.m3u
+Manx Radio AM  (Isle of Man, aacplus, 128 Kbps) | http://icy-e-04.sharp-stream.com/manxradioam.aac.m3u
+Marlow FM  (Marlow, MP3, 128 Kbps) | http://audio.marlowfm.co.uk:8022/listen.pls
+Mearns FM   (Stonehaven, MP3, 96 Kbps) | http://217.28.20.20:8002/stream.m3u
+Meridian FM   (East Grinstead, MP3, 96 Kbps) | http://radio.canstream.co.uk:8063/live.mp3.m3u
+Metro Radio  (Newcastle, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=metro.mp3.m3u
+Metro Radio  (Newcastle, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=metro.aac.m3u
+MFR  (Inverness, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=mfrfm.mp3.m3u
+MFR  (Inverness, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=mfrfm.aac.m3u
+Ministry of Sound Radio  (London, Windows Media, 128 Kbps) | mms://wma.sharp-stream.com/moswma
+Minster FM  (York, MP3, 128 Kbps) | http://str1.sad.ukrd.com/minster.m3u
+Mix 96  (Aylesbury, MP3, 128 Kbps) | http://str1.sad.ukrd.com/mix96.m3u
+Moorlands Radio   (Leek, MP3, 128 Kbps) | http://stream2.hippynet.co.uk:8067/listen.pls
+Moray Firth Radio  (Inverness, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=mfram.mp3.m3u
+Moray Firth Radio  (Inverness, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=mfram.aac.m3u
+Nation Radio  (Cardiff, MP3, 128 Kbps) | http://icy-e-01.sharp-stream.com/tcnation.mp3.m3u
+Nation Radio  (Cardiff, aacPlus, 96 Kbps) | http://icy-e-04.sharp-stream.com/tcnation.aac.m3u
+Nation Hits  (Swansea, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/tcbay.mp3.m3u
+Nation Hits  (Swansea, aacPlus, 128 Kbps) | http://icy-e-04.sharp-stream.com/tcbay.aac.m3u
+NE1fm  (Newcastle, MP3, 128 Kbps) | http://www.ne1fm.net/listen.pls
+NECR  (Inverurie, MP3, 32 Kbps) | http://stream1.radiomonitor.com/NECR.m3u
+Nevis Radio  (Fort William, MP3, 128 Kbps) | http://shoutcast.zfast.co.uk:8048/listen.pls
+NonStopPlay.com  (Internet only, MP3, 128 Kbps) | http://www.nonstopplay.com/listen.pls
+North Manchester FM  (Manchester, MP3, 128 Kbps) | http://live.canstream.co.uk:8000/manchesterfm.mp3.m3u
+North Norfolk Radio  (Norfolk, aacplus, 48 Kbps) | http://webradio.radiomonitor.com/m3u/NNR.m3u
+NorthSound 1  (Aberdeen, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=northsound1.mp3.m3u
+NorthSound 1  (Aberdeen, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=northsound1.aac.m3u
+NorthSound 2  (Aberdeen, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=northsound2.mp3.m3u
+NorthSound 2  (Aberdeen, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=northsound2.mp3.m3u
+NuSound Radio  (Forest Gate, MP3, 64 Kbps) | http://www.nusoundradio.com/Images/nusound.m3u
+Oak FM  (Loughborough, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/oakfm.mp3.m3u
+Oban FM  (Oban, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/obanfm.mp3.m3u
+Oldham Community Radio  (Oldham, MP3, 96 Kbps) | http://www.oldhamcommunityradio.com/listen.m3u
+Original 106  (Aberdeen, MP3, 96 Kbps) | http://sharpflow.sharp-stream.com:8000/original106.mp3.m3u
+Palm 105.5  (Torbay, MP3, 128 Kbps) | http://stream2.radiomonitor.com/Palm-128.m3u
+PeaceFM 90.1  (Manchester, MP3, 96 Kbps) | http://88.208.244.98:8000/peacefm.m3u
+Peak FM  (Chesterfield, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Peak.m3u
+Penistone FM  (Penistone, MP3, 128 Kbps) | http://freedom.wavestreamer.com:1421/listen.pls
+Phoenix FM  (Brentwood, MP3, 128 Kbps) | http://groove.wavestreamer.com:1907/listen.pls?sid=1
+Phonic FM  (Exeter, MP3, 64 Kbps) | http://109.200.2.91:8004/listen.pls
+Pirate FM  (Redruth, MP3, 128 Kbps) | http://str1.sad.ukrd.com/pirate.m3u
+Planet Rock  (Digital Network, MP3, 112 Kbps) | http://sharpflow.sharp-stream.com:8000/planetrock.mp3.m3u
+Point FM  (Rhyl, MP3, 96 Kbps) | http://stream.pointfm.co.uk:1031/listen.pls
+Polskie Radio Londyn  (London, MP3, 128 Kbps) | http://radio.prl24.net:8128/listen.pls
+Premier Christian Radio  (London, Windows Media, 64 Kbps) | http://wma.premier.org.uk/premiernational
+Premier Gospel  (London, Windows Media, 64 Kbps) | http://wma.premier.org.uk/premiergospel
+Preston FM   (Preston, MP3, 128 Kbps) | http://178.32.5.21:8114/listen.pls
+The Pulse  (Bradford, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Pulse.m3u
+Pulse 2  (Bradford, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Pulse-Gold.m3u
+Pure Radio   (Stockport, MP3, 32 Kbps) | http://www.pureradio.org.uk/silo/files/live-streaming.m3u
+Q 97.2  (Coleraine, MP3, 96 Kbps) | http://www.qradionetwork.com:9996/listen.pls
+Q100.5  (Newry, MP3, 96 Kbps) | http://146.255.34.186:9990/listen.pls
+Q101  (Omagh, MP3, 128 Kbps) | http://146.255.34.186:9992/listen.pls
+Q102  (Londonderry, MP3, 128 Kbps) | http://146.255.34.186:9994/listen.pls
+Q107   (Ballymena, MP3, 64 Kbps) | http://146.255.34.186:9988/listen.pls
+Queen's Radio  (Belfast, MP3, 96 Kbps) | http://quis.qub.ac.uk:8080/QRLQ.m3u
+Radio Aire  (Leeds, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=aire.mp3.m3u
+Radio Aire  (Leeds, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=aire.aac.m3u
+Radio Asian Fever  (Leeds, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/asianfever.mp3.m3u
+Radio Borders  (Galashiels, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=borders.mp3.m3u
+Radio Borders  (Galashiels, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=borders.aac.m3u
+Radio Cabin  (Herne Bay, MP3, 128 Kbps) | http://50.7.129.122:8200/stream.m3u
+Radio Carmarthenshire  (Llanelli, aacplus, 56 Kbps) | http://icy-e-04.sharp-stream.com/tccarmarthenshire.aac.m3u
+Radio Caroline  (Digital Network, MP3, 128 Kbps) | http://sc6.radiocaroline.net:8040/listen.pls
+Radio Ceredigion  (Aberystwyth, aacplus, 56 Kbps) | http://icy-e-01.sharp-stream.com/tcceredigion.aac.m3u
+Radio City 96.7  (Liverpool, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=city.mp3.m3u
+Radio City 96.7  (Liverpool, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=city.aac.m3u
+Radio Essex   (Southend, MP3, 128 Kbps) | http://ar.canstream.co.uk:8003/live.mp3.m3u
+Radio Essex   (Southend, aacPlus, 48 Kbps) | http://ar.canstream.co.uk:8003/live.aac.m3u
+Radio Exe   (Exeter, MP3, 128 Kbps) | http://5.39.66.196:8058/live.m3u
+Radio Faza  (Nottingham, MP3, 64 Kbps) | http://livecast.radiofaza.org.uk:12164/listen.pls
+Radio Hartlepool  (Hartlepool, MP3, 128 Kbps) | http://arctic.thebmwz3.co.uk:8000/hartlepool-mp3.m3u
+Radio Ikhlas  (Derby, MP3, 128 Kbps) | http://live.canstream.co.uk:8000/radioikhlas.mp3.m3u
+Radio Jackie  (Tolworth, MP3, 32 Kbps) | http://radiojackie.com:22614/listen.pls
+Radio Jackie  (Tolworth, aacplus, 128 Kbps) | http://radiojackie.com:12614/listen.pls
+Radio Jcom  (Leeds, MP3, 32 Kbps) | http://icecast.commedia.org.uk:8000/radiojcom.mp3.m3u
+99.9 Radio Norwich  (Norwich, aacplus, 56 Kbps) | http://webradio.radiomonitor.com/m3u/Norwich999.m3u
+Radio ORLA FM   (London, MP3, 96 Kbps) | http://orlafm.whooshclouds.net:8025/live.m3u
+Radio Pembrokeshire  (Tenby, aacplus, 56 Kbps) | http://icy-e-04.sharp-stream.com/tcpembrokeshire.aac.m3u
+RadioReverb   (Brighton, MP3, 128 Kbps) | http://www.radioreverb.com/fileadmin/audio/stream-hi.m3u
+Radio Scilly  (Isles of Scilly, MP3, 64 Kbps) | http://radio.canstream.co.uk:8040/live.mp3.m3u
+Radio Scilly  (Isles of Scilly, aacplus, 32 kbps) | http://radio.canstream.co.uk:8041/live.aac.m3u
+Radio St Austell Bay  (St Austell, MP3, 192 Kbps) | http://listen.rsab.org/listen.m3u
+Radio Sunlight  (Gillingham, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/sunlight.mp3.m3u
+Radio Teesdale  (Barnard Castle, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/radioteesdale.mp3.m3u
+Radio Tircoed  (Swansea, MP3, 128 Kbps) | http://78.129.143.9:8060/listen.pls
+Radio Verulam  (St.Albans, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/verulam.mp3.m3u
+Radio Yorkshire  (Leeds, MP3, 64 Kbps) | http://mp3streaming.planetwideradio.com:9280/live.m3u
+Radio Wave 96.5  (Blackpool, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Wave-Blackpool.m3u
+Radio Winchcombe  (Winchcombe, MP3, 64 Kbps) | http://195.10.228.6:8014/winchcombe.m3u
+Radio XL  (Birmingham, MP3, 56 Kbps) | http://sc18.strictlyhosting.co.uk:8000/listen.pls
+Raidió Fáilte  (Belfast, MP3, 32 Kbps) | http://icecast.commedia.org.uk:8000/raidiofailte.mp3.m3u
+Rainbow Radio  (London, Windows Media, 48 Kbps) | http://streamer2.securenetsystems.net/RAIN
+RaW 1251AM  (Warwick, MP3, 256 Kbps) | http://radio.warwick.ac.uk/streams/auto-high-mp3.m3u
+Reading 107fm  (Reading, MP3, 64 Kbps) | http://stream1.blueboxstreaming.co.uk:8250/live.m3u
+Real Radio XS   (Manchester, MP3, 128 Kbps) | http://media-ice.musicradio.com/RealXSManchesterMP3.m3u
+Redroad FM   (Rotherham, MP3, 128 Kbps) | http://www.centovav3.shoutstream.co.uk/tunein/redroadf.pls
+Resonance 104.4fm  (London, MP3, 128 Kbps) | http://radio.canstream.co.uk:8004/live.mp3.m3u
+Revival FM  (Cumbernauld, MP3, 24 Kbps) | http://rs4.radiostreamer.com:8470/listen.pls
+96.2 The Revolution  (Oldham, MP3, 64 Kbps) | http://46.32.226.251:8004/listen.pls
+Ridings FM  (Wakefield, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmridings.aac.m3u
+97.4 Rock FM  (Preston, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=rock.mp3.m3u
+97.4 Rock FM  (Preston, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=rock.aac.m3u
+Rother FM  (Rotherham, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmrother.aac.m3u
+107.1 Rugby FM  (Rugby, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/1071rugbyfm.mp3.m3u
+Rutland Radio   (Oakham, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmrutland.aac.m3u
+RWSfm   (Bury St.Edmunds, Windows Media, 32 Kbps) | mms://81.149.116.144:8080/
+Sabras Radio  (Leicester, MP3, 64 Kbps) | http://www.sabrasradio.com/res/wm_hi.m3u
+Saint FM  (Burnham on Crouch, MP3, 96 Kbps) | http://stream.saintfm.co.uk:8134/listen.pls
+Salford City Radio  (Salford, MP3, 128 Kbps) | http://live.canstream.co.uk:8000/scr.m3u
+Sanskar Radio  (Leicester, MP3, 24 Kbps) | http://www.sanskarradio.com/sanskar.m3u
+Scarlet FM  (Llanelli, aacplus, 56 Kbps) | http://icy-e-04.sharp-stream.com/tcscarlet.aac.m3u
+Seahaven FM  (Seaford, MP3, 96 Kbps) | http://82.165.151.90:8000/listen.pls
+SFM  (Sittingbourne, MP3, 128 Kbps) | http://87.117.193.43:8060/listen.pls
+Sheffield Live!  (Sheffield, MP3, 56 Kbps) | http://icecast.commedia.org.uk:8000/shefflive.mp3.m3u
+shmuFM  (Aberdeen, MP3, 96 Kbps) | http://stream.shmu.org.uk:8000/shmufm_high.mp3.m3u
+Signal 1  (Stoke, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Signal1.m3u
+Signal 2  (Stoke, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Signal2.m3u
+Signal 107  (Wolverhampton, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Wolf.m3u
+Silk 106.9   (Macclesfield, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/tcsilk.mp3.m3u
+Sine FM  (Doncaster, MP3, 96 Kbps) | http://www.sinefm.com/UserFiles/File/sinefm.m3u
+Siren FM   (Lincoln, MP3, 128 Kbps) | http://radio.canstream.co.uk:8045/live.mp3.m3u
+Skyline 102.5 FM  (Hedge End, MP3, 32 Kbps) | http://icecast.commedia.org.uk:8000/skyline.mp3.m3u
+Smile Sussex  (Brighton, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/smilesussex.mp3.m3u
+Smooth Radio North West  (Manchester, MP3, 128 Kbps) | http://media-ice.musicradio.com/SmoothNorthWestMP3.m3u
+Smooth Radio Glasgow  (Glasgow, MP3, 128 Kbps) | http://media-ice.musicradio.com/SmoothScotlandMP3.m3u
+Smooth Radio West Midlands  (Birmingham, MP3, 128 Kbps) | http://media-ice.musicradio.com/SmoothWestMidsMP3.m3u
+Smooth Radio East Midlands  (Nottingham, MP3, 128 Kbps) | http://media-ice.musicradio.com/SmoothEastMidsMP3.m3u
+Smooth Radio London  (London, MP3, 128 Kbps) | http://media-ice.musicradio.com/SmoothLondonMP3.m3u
+Smooth Radio Northeast  (Newcastle, MP3, 128 Kbps) | http://media-ice.musicradio.com/SmoothNorthEastNMP3.m3u
+Solar Radio  (London, MP3, 128 Kbps) | http://icy-e-01.sharp-stream.com/solar32.mp3.m3u
+Sommer Valley FM  (Midsummer Norton, MP3, 128 Kbps) | http://icecast.bargus.co.uk:8000/svalley.mp3.m3u
+soundart radio  (Dartington, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/soundart.mp3.m3u
+The Source FM   (Falmouth, MP3, 128 Kbps) | http://live.canstream.co.uk:8000/sourcefm.mp3.m3u
+Southend Radio   (Southend, MP3, 128 Kbps) | http://ar.canstream.co.uk:8001/live.mp3.m3u
+Southend Radio   (Southend, aacPlus, 48 Kbps) | http://ar.canstream.co.uk:8001/live.aac.m3u
+Sovereign FM   (Eastbourne, aacplus, 48 Kbps) | http://s3.xrad.io:8090/listen.pls
+Spark FM   (Sunderland, MP3, 128 Kbps) | http://87.106.180.82/sparkcr128.mp3.m3u
+Spectrum Radio AM   (London, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/spectrum1.mp3.m3u
+Spectrum Radio DAB   (London, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/spectrum2.mp3.m3u
+Spectrum Radio Sky Digital   (London, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/spectrum3.mp3.m3u
+Speysound Radio  (Aviemore, MP3, 32 Kbps) | http://live.canstream.co.uk:8000/speysound.mp3.m3u
+102 Spire FM  (Salisbury, MP3, 128 Kbps) | http://str1.sad.ukrd.com/spire.m3u
+Spirit FM  (Chichester, MP3, 128 Kbps) | http://str1.sad.ukrd.com/spirit.m3u
+107.7 Splash FM  (Worthing, aacplus, 48 Kbps) | http://s3.xrad.io:8096/listen.pls
+Star Radio  (Darlington, MP3, 128 Kbps) | http://str1.sad.ukrd.com/star-ne.m3u
+Star 107  (Cambridge, MP3, 128 Kbps) | http://str1.sad.ukrd.com/starcambs.m3u
+97.2 Stray FM  (Harrogate, MP3, 128 Kbps) | http://str1.sad.ukrd.com/stray.m3u
+Stray FM Dales  (Skipton, MP3, 128 Kbps) | http://str1.sad.ukrd.com/stray-dales.m3u
+Streetlife FM   (Leyton, MP3, 96 Kbps) | http://icecast.commedia.org.uk:8000/streetlifefm.mp3.m3u
+Sun FM   (Sunderland, Windows Media, 128 Kbps) | http://str1.sad.ukrd.com/sun-fm.m3u
+Sunrise Radio  (Bradford, MP3, 64 Kbps) | http://direct.sharp-stream.com/sunrise.mp3.m3u
+Sunrise Radio  (London, Windows Media, 48 Kbps) | mms://193.218.160.20/Sunrise
+Sunshine 855  (Ludlow, MP3, 96 Kbps) | http://icecast.easystream.co.uk:8000/sunshine855.m3u
+Sunshine Radio  (Hereford, MP3, 96 Kbps) | http://icecast.easystream.co.uk:8000/herefordFM.m3u
+The Superstation  (Orkney, MP3, 128 Kbps) | http://50.7.70.58:8771/listen.pls
+Susy Radio   (Redhill, MP3, 128 Kbps) | http://media.susyradio.com:8770/listen.pls
+Swansea Sound  (Swansea, MP3, 64 Kbps) | http://stream1.radiomonitor.com/SwanseaSound.m3u
+Swindon 105.5   (Swindon, aacplus, 48 Kbps) | http://46.28.49.164:7510/stream.m3u
+Takeover Radio  (Leicester, MP3, 96 Kbps) | http://www.takeoverradio.co.uk/stream/streamcma.m3u
+talkSPORT  (London, MP3, 32 Kbps) | http://webradio.radiomonitor.com/m3u/talksport
+Tameside Radio  ( Ashton-under-Lyne, MP3, 32 Kbps) | http://icecast.commedia.org.uk:8000/tameside.mp3.m3u
+Tay FM  (Dundee, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=tayfm.mp3.m3u
+Tay FM  (Dundee, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=tayfm.aac.m3u
+Tay AM  (Dundee, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=tayam.mp3.m3u
+Tay AM  (Dundee, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=tayam.aac.m3u
+TCR fm  (Tamworth, MP3, 128 Kbps) | http://streaming.tcrfm.co.uk:8080/live.m3u
+TeamRock Radio  (London, MP3, 128 Kbps) | http://teamrock.planetwideradio.com:8000/teamrockhigh.m3u
+Tempo FM   (Wetherby, MP3, 64 Kbps) | http://stream.dnsgb.net:8040/listen.pls
+TFM  (Teeside, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=tfm.mp3.m3u
+TFM  (Teeside, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=tfm.aac.m3u
+Tone FM  (Taunton, MP3, 128 Kbps) | http://217.160.130.207:9000/stream.m3u
+101-102 Touch FM  (Tamworth, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/1016touchfm.mp3.m3u
+102 Touch FM  (Stratford-upon-Avon, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/102touchfm.mp3.m3u
+96.2 Touch FM  (Coventry, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/962touchfm.mp3.m3u
+107.3 Touch FM  (Warwick, MP3, 64 Kbps) | http://icy-e-04.sharp-stream.com/1073touchfm.mp3.m3u
+Tower FM  (Bolton, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Tower.m3u
+Town 102  (Ipswich, MP3, 56 Kbps) | http://sharpflow.sharp-stream.com:8000/tindletown102.mp3.m3u
+Trax FM  (Doncaster, aacplus, 48 Kbps) | http://icy-e-04.sharp-stream.com/lincsfmtrax.aac.m3u
+Tudno FM  (Llandudno, MP3, 256 Kbps) | http://217.28.20.20:8033/listen.pls
+Tulip Radio  (Spalding, MP3, 128 Kbps) | http://uk3-pn.mixstream.net:8066/listen.pls
+Two Lochs Radio  (Gairloch, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/twolochs.mp3.m3u
+U105   (Belfast, MP3, 64 Kbps) | http://stream1.radiomonitor.com/U105.m3u
+UWS Radio   (Ayr, MP3, 128 Kbps) | http://icecast.commedia.org.uk:8000/ucaradio.mp3.m3u
+UCB UK  (Digital Network, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/ucbuk.mp3.m3u
+UCB Bible  (Digital Network, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/ucbbible.mp3.m3u
+UCB Inspirational  (Digital Network, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/ucbinspirational.mp3.m3u
+UCB Talk  (Digital Network, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/ucbgospel.mp3.m3u
+UCB The Word  (Digital Network, MP3, 128 Kbps) | http://icy-e-04.sharp-stream.com/ucbtheword.mp3.m3u
+Uckfield FM  (Uckfield, MP3, 128 Kbps) | http://streaming.planetwideradio.com:9170/listen.pls
+Ujima 98 FM  (Bristol, MP3, 64 Kbps) | http://radio.canstream.co.uk:8037/live.mp3.m3u
+Unity FM  (Birmingham, MP3, 64 Kbps) | http://icecast.commedia.org.uk:8000/unity.mp3.m3u
+Unity 101  (Southampton, MP3, 80 Kbps) | http://icecast.commedia.org.uk:8000/unity24.mp3.m3u
+1449 AM URB  (Bath, MP3, 48 Kbps) | http://people.bath.ac.uk/su9urb/audio/urb-low.m3u
+URN  (Nottingham, MP3, 160 Kbps) | http://posurnl.nottingham.ac.uk:8080/urn_high.mp3.m3u
+Viking FM  (Hull, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=viking.mp3.m3u
+Viking FM  (Hull, aacplus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=viking.aac.m3u
+Vixen 101  (Market Weighton, MP3, 128 Kbps) | http://192.99.20.78:2199/tunein/iwhqsgip.pls
+The Voice  (Barnstaple, MP3, 96 Kbps) | http://www.rosi-systems.com:8000/thevoice.mp3.m3u
+96.4FM The Wave  (Swansea, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Wave-Swansea.m3u
+Wave 102  (Dundee, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Wave-Dundee.m3u
+Wave 105  (Southampton, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=wave105.mp3.m3u
+Wave 105  (Southampton, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=wave105.aac.m3u
+Waves Radio   (Peterhead, MP3, 32 Kbps) | http://stream1.radiomonitor.com/WavesRadio.m3u
+101.8 WCR FM  (Wolverhampton, MP3, 128 Kbps) | http://radio.canstream.co.uk:8016/live.mp3.m3u
+Wessex FM  (Dorchester, MP3, 128 Kbps) | http://str1.sad.ukrd.com/wessex.m3u
+West FM  (Ayr, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=westfm.mp3.m3u
+West FM  (Ayr, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=westfm.aac.m3u
+West Sound  (Ayr, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=westsound.mp3.m3u
+West Sound  (Ayr, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=westsound.aac.m3u
+West Sound FM  (Dumfries, MP3, 112 Kbps) | http://tx.whatson.com/icecast.php?i=westsoundfm.mp3.m3u
+West Sound FM  (Dumfries, aacPlus, 48 Kbps) | http://tx.whatson.com/icecast.php?i=westsoundfm.aac.m3u
+Westside 89.6FM  (Hanwell, MP3, 128 Kbps) | http://radio.canstream.co.uk:8002/live.mp3.m3u
+Wire FM  (Warrington, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Wire.m3u
+Wish FM  (Wigan, MP3, 64 Kbps) | http://stream1.radiomonitor.com/Wish.m3u
+Wythenshawe FM   (Wythenshawe, MP3, 128 Kbps) | http://www.wfmradio.org/wfm.m3u
+104.9 XFM  (London, MP3, 48 Kbps) | http://media-ice.musicradio.com/XFMMP3Low.m3u
+104.9 XFM  (London, aacplus, 128 Kbps) | http://media-ice.musicradio.com/XFMMP3.m3u
+97.7 XFM  (Manchester, MP3, 48 Kbps) | http://media-ice.musicradio.com/XFMManchesterMP3Low.m3u
+97.7 XFM  (Manchester, aacplus, 128 Kbps) | http://media-ice.musicradio.com/XFMManchesterMP3.m3u
+Xpress Radio   (Cardiff, MP3, 96 Kbps) | http://stream.suon.cf.ac.uk:8000/xpress.m3u
+Yorkshire Coast Radio   (Scarborough, MP3, 128 Kbps) | http://str1.sad.ukrd.com/yorkshirecoast.m3u
+Yorkshire Coast Radio   (Bridlington, MP3, 128 Kbps) | http://str1.sad.ukrd.com/yorkshirecoastb.m3u
+Yorkshire Coast Radio   (Whitby, MP3, 128 Kbps) | http://str1.sad.ukrd.com/yorkshirecoastw.m3u
+Your Radio  (Dumbarton, MP3, 96 Kbps) | http://direct.sharp-stream.com/yourradio.mp3.m3u
+Zack FM  (Forest Heath, aacplus, 64 Kbps) | http://1.ice1.firststreaming.com:8000/zack_fm.aac.m3u
